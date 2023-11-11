@@ -22,7 +22,7 @@ Stay tuned! I'll be adding links to the projects I've been passionately working 
 
 ## Special Thanks 
 
-I would like to extend my gratitude to all of my peers for making this such an amazing experience. Without their words of ecouragement and laughs when times got challenging this would have been a complete different experience. 
+I would like to extend my gratitude to all of my peers for making this such an amazing experience. Without their words of encouragement and laughs when times got challenging this would have been a complete different experience. 
 
 I also want to thank all of the TechBridge staff who worked tirelessly to made sure that we all got the most out of this program. Although it was challenging it was an amazing opportunity. 
 
