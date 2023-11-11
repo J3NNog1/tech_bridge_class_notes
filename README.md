@@ -4,29 +4,21 @@
 
 
 ## About me
-Hey there! My name is Jennifer Juarez. I am a full-stack software developer 💻
 
-I am currently enrolled in the TechBridge software-engineering cohort. I learned about 
+Greetings! I'm Jennifer Juarez, a full-stack software developer 💻 currently enrolled in the TechBridge's software engineering cohort. Recently, I achieved Azure Cloud Certification:
 
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7116449782176391168/"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
 
   *^^button is clickable!^^*
 
-
-I am now Azure Cloud Certified as well  ☁️ 
-
-
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 
-As my program comes to an end I am thankful to say that this has been the most rewarding experience. 
-
-That being said I have attached my class notes for any of those who wanted to check it out!
+I am thrilled about this rewarding journey, and I've attached my class notes for those interested.
 
 ## Projects
 
-Once I complete my projects I have been working on for the last few weeks I will add them here with a delpoyed link!
+Stay tuned! I'll be adding links to the projects I've been passionately working on.
 
 ## Special Thanks 
 
@@ -36,13 +28,13 @@ I also want to thank all of the TechBridge staff who worked tirelessly to made s
 
     *Antoinette D. (being our fearless leader)
 
-    Mr.K (azure cloud instructor)
+    *Mr.K (azure cloud instructor)
 
     *Dé Kwaan W. (java instructor) 
 
-    *Dana P. (being the best t.a we couldve ever asked for)
+    *Dana P. (being the best t.a we could've ever asked for)
 
-Along with our student support staff ❤️
+And our incredible student support staff ❤️:
 
     *Maggie P.
 
@@ -50,14 +42,12 @@ Along with our student support staff ❤️
 
 
 
-I would also like to extend my gratitude to the Sam's Club community for sponsoring this amazing opportunity. 
+Gratitude extends to the Sam's Club community for sponsoring this fantastic opportunity.
 
 ## Now what?
 
-I will be continuing my journey in the tech space. With my new found knowledge I will continue to expand my knowledge in both cloud and java development. 
+I'm continuing my journey in the tech space, leveraging my newfound knowledge in cloud and Java development. I'm also exploring job opportunities!
 
-
-I will also be looking for a job opportunities! 
 
 Connect with me!
 
